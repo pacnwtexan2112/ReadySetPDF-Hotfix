@@ -1,5 +1,5 @@
 {
- "version": "4.03",
- "patch_url": "https://raw.githubusercontent.com/pacnwtexan2112/ReadySetPDF-Hotfix/main/hotfix.zip",
- "release_notes": "The Unlock ReadySetPDF locked files tab now includes the folder batch: input folder, output folder, and _unlocked name, plus the stack step."
+  "version": "4.05",
+  "patch_url": "https://raw.githubusercontent.com/pacnwtexan2112/ReadySetPDF-Hotfix/main/hotfix.zip",
+  "release_notes": "Version 4.05. Fit Width fills the Real-Time Monitor. Clicking a file in Assets shows that file in the preview."
 }
