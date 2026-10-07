@@ -1,0 +1,5 @@
+{
+  "version": "4.01",
+  "patch_url": "https://raw.githubusercontent.com/pacnwtexan2112/ReadySetPDF-Hotfix/main/hotfix.zip",
+  "release_notes": "Mail merge text starts regular, and a 3.54 recipe stays regular unless bold is turned on. Loading an imposition recipe clears leftover mail-merge fields and opens the last step. A JSON recipe can be dropped onto the window. Large PDFs keep their own resolution. Build and Save can set a max resolution: Original, 300, 600, or 1200. Add Files and Load Recipe remember separate folders. Each mail merge field can be rotated."
+}
