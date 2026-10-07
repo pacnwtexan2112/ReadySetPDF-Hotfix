@@ -1,5 +1,5 @@
 {
  "version": "4.02",
  "patch_url": "https://raw.githubusercontent.com/pacnwtexan2112/ReadySetPDF-Hotfix/main/hotfix.zip",
- "release_notes": "Print Lock and Edit Lock show the master password on hover. Unlock is renamed Unlock ReadySetPDF locked files. It can run as a stack step, or as a folder batch with an input folder, an output folder, and an _unlocked name. The master password starts as readysetpdf. A PDF that will not open until a password is typed stays locked."
+ "release_notes": "This hot-fix replaces ReadySetPDF.exe. The program is now version 4.02, and the tool button reads Unlock ReadySetPDF locked files. The earlier package only copied Python files beside the program, and the installed exe kept running the old copy."
 }
