@@ -1,5 +1,5 @@
 {
- "version": "4.02",
+ "version": "4.03",
  "patch_url": "https://raw.githubusercontent.com/pacnwtexan2112/ReadySetPDF-Hotfix/main/hotfix.zip",
- "release_notes": "This hot-fix replaces ReadySetPDF.exe. The program is now version 4.02, and the tool button reads Unlock ReadySetPDF locked files. The earlier package only copied Python files beside the program, and the installed exe kept running the old copy."
+ "release_notes": "The Unlock ReadySetPDF locked files tab now includes the folder batch: input folder, output folder, and _unlocked name, plus the stack step."
 }
