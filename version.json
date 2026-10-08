@@ -1,5 +1,5 @@
 {
   "version": "4.05",
   "patch_url": "https://raw.githubusercontent.com/pacnwtexan2112/ReadySetPDF-Hotfix/main/hotfix.zip",
-  "release_notes": "Version 4.05. Fit Width fills the Real-Time Monitor. Clicking a file in Assets shows that file in the preview."
+  "release_notes": "Version 4.05. Grid has Auto max-fit, which fills the sheet with native-size copies. The Monkey tab is removed. Fit Width fills the Real-Time Monitor, and clicking a file in Assets shows that file."
 }
