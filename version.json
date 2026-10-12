@@ -1,0 +1,6 @@
+{
+  "version": "4.0.8",
+  "patch_url": "https://github.com/pacnwtexan2112/ReadySetPDF-Hotfix/releases/download/v4.0.8/ReadySetPDF-4.0.8.zip",
+  "release_notes": "ReadySetPDF 4.0.8\n\nFile details for the highlighted asset, including page count, size, resolution, and whether a customer PDF needs a password to open. Locked intake files show (locked) in Assets Manager.\n\nUnlock ReadySetPDF print and edit locks from the header, between Global Settings and Export Proof Images.\n\nColor tab image controls: tone, chroma, and CMYK ink sliders, with Reset adjustments. The monitor updates as the sliders move.\n\nPreflight criteria are grouped and labeled for press operators. Yes-or-no checks no longer show a number box.\n\nBooklet padding uses the document page size when the page count is not a multiple of 4, and the preview warns when that count will not close a booklet.",
+  "sha256": "e785c10f40bbb7b060fde491899be4b1f68cf903c272a8823b38d476afbdc617"
+}
