@@ -1,6 +1,6 @@
 {
-  "version": "4.0.9",
-  "patch_url": "https://github.com/pacnwtexan2112/ReadySetPDF-Hotfix/releases/download/v4.0.9/ReadySetPDF-4.0.9.zip",
-  "release_notes": "ReadySetPDF 4.0.9\n\nLarge files load faster. Files are read and previewed in the background while a working spinner shows progress.\n\nHeader buttons are soft and rounded, and they adapt to smaller screens.\n\nAssets Manager page editing: expand a multi-page PDF with the arrow, then use the Page controls section to Rotate, Resize, Blank, or Delete a single page. Edits go to a working copy, so the loaded file is untouched.\n\nA Details button next to Assets shows page count, size, resolution, and whether a customer PDF needs a password. Locked files show (locked) in Assets Manager.\n\nUnlock moved from a tab to a header popup.\n\nColor tab image adjustment sliders with live preview and a Reset button.\n\nPreflight criteria are regrouped, with tooltips on each check.\n\nBooklet padding is fixed for page counts that are not divisible by 4.\n\nThe Join/Split arranger writes its pages into Assets.",
-  "sha256": "850c3189ae490b0dd9a4683f0707938822e4c7073ee7e14ebe23c36dff62c04d"
+  "version": "4.0.10",
+  "patch_url": "https://github.com/pacnwtexan2112/ReadySetPDF-Hotfix/releases/download/v4.0.10/ReadySetPDF-4.0.10.zip",
+  "release_notes": "ReadySetPDF 4.0.10\n\nGrid is now Grid / Bleeds. Grow Bleed adds bleed to pages that have none. Quick grow scales the artwork onto the larger page. Edge extend keeps the artwork in place and fills the new band by mirroring or stretching the outer edge. The original page is saved as the TrimBox, so Grid and Booklet pack on the finished size and crop marks land on the original edge.\n\nDetails lists every font and no longer cuts a long report short.\n\nButtons across the panels match the rounded header buttons, and the label shrinks so it stays inside the button.\n\nArrange Pages shows the whole page, and its section dividers can be dragged.\n\nSome customer PDFs no longer hang while the preview is building.\n\nThe Mail Merge hint wraps to the width of the pane.",
+  "sha256": "bfbf2994839c532e03406dbaf0b12ba79dee87240e62d272fa3a7093b00dc759"
 }
